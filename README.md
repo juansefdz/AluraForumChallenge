@@ -19,7 +19,7 @@ Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a l
 
 - Eliminar un tópico
 
-Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) y es muy parecido con lo que desarrollamos en el Hotel Alura, pero ahora usando un framework que va a facilitar mucho nuestro trabajo.
+Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE).
 
 Al final de nuestro desarrollo tendremos una API REST con las siguientes funcionalidades
 
